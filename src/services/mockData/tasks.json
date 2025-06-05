@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "farmId": "1",
+    "cropId": "1",
+    "title": "Apply fertilizer to corn fields",
+    "description": "Second nitrogen application for optimal growth during tasseling stage",
+    "dueDate": "2024-07-15",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2024-07-10T08:00:00Z"
+  },
+  {
+    "id": "2",
+    "farmId": "1", 
+    "cropId": "2",
+    "title": "Scout for soybean aphids",
+    "description": "Weekly inspection for early pest detection and prevention",
+    "dueDate": "2024-07-20",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2024-07-12T10:30:00Z"
+  },
+  {
+    "id": "3",
+    "farmId": "2",
+    "cropId": "3",
+    "title": "Harvest wheat crop",
+    "description": "Moisture content is optimal, weather forecast looks good for next 3 days",
+    "dueDate": "2024-07-18",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2024-07-16T06:45:00Z"
+  },
+  {
+    "id": "4",
+    "farmId": "2",
+    "cropId": "4",
+    "title": "Water greenhouse tomatoes",
+    "description": "Increase watering frequency due to hot weather forecast",
+    "dueDate": "2024-07-17",
+    "priority": "high",
+    "status": "completed",
+    "createdAt": "2024-07-15T14:20:00Z"
+  },
+  {
+    "id": "5",
+    "farmId": "3",
+    "cropId": "5",
+    "title": "Cultivate corn rows",
+    "description": "Final cultivation to control weeds before canopy closure",
+    "dueDate": "2024-07-22",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2024-07-18T09:15:00Z"
+  },
+  {
+    "id": "6",
+    "farmId": "4",
+    "cropId": "7",
+    "title": "Harvest lettuce",
+    "description": "First cutting ready, harvest early morning for best quality",
+    "dueDate": "2024-07-16",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2024-07-14T16:30:00Z"
+  },
+  {
+    "id": "7",
+    "farmId": "4",
+    "cropId": "8",
+    "title": "Thin carrot seedlings",
+    "description": "Remove excess plants to ensure proper spacing for root development",
+    "dueDate": "2024-07-25",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2024-07-20T11:45:00Z"
+  },
+  {
+    "id": "8",
+    "farmId": "5",
+    "cropId": "9",
+    "title": "Test wheat moisture content",
+    "description": "Check grain moisture before harvest, target 13.5% or below",
+    "dueDate": "2024-07-24",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2024-07-22T07:20:00Z"
+  },
+  {
+    "id": "9",
+    "farmId": "6",
+    "cropId": "11",
+    "title": "Hill potato plants",
+    "description": "Second hilling to prevent green potatoes and improve yield",
+    "dueDate": "2024-07-19",
+    "priority": "medium",
+    "status": "completed",
+    "createdAt": "2024-07-17T13:10:00Z"
+  },
+  {
+    "id": "10",
+    "farmId": "7",
+    "cropId": "12",
+    "title": "Check irrigation system",
+    "description": "Inspect sprinklers and check water pressure for sweet corn",
+    "dueDate": "2024-07-21",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2024-07-19T15:40:00Z"
+  },
+  {
+    "id": "11",
+    "farmId": "8",
+    "cropId": "13",
+    "title": "Support pepper plants",
+    "description": "Install stakes and cages for heavy fruit-bearing plants",
+    "dueDate": "2024-07-23",
+    "priority": "low",
+    "status": "pending",
+    "createdAt": "2024-07-21T12:25:00Z"
+  },
+  {
+    "id": "12",
+    "farmId": "9",
+    "cropId": "14",
+    "title": "Detassel seed corn",
+    "description": "Remove tassels from female rows to prevent self-pollination",
+    "dueDate": "2024-07-26",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2024-07-23T08:55:00Z"
+  },
+  {
+    "id": "13",
+    "farmId": "10",
+    "cropId": "15",
+    "title": "Arrange grain storage",
+    "description": "Clean and prepare bins for incoming durum wheat harvest",
+    "dueDate": "2024-07-17",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2024-07-15T17:30:00Z"
+  },
+  {
+    "id": "14",
+    "farmId": "1",
+    "cropId": null,
+    "title": "Service tractor",
+    "description": "50-hour maintenance check on John Deere 8320R",
+    "dueDate": "2024-07-28",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2024-07-25T09:40:00Z"
+  },
+  {
+    "id": "15",
+    "farmId": "5",
+    "cropId": null,
+    "title": "Repair fence line",
+    "description": "Fix damaged fencing on north boundary after storm",
+    "dueDate": "2024-07-30",
+    "priority": "low",
+    "status": "pending",
+    "createdAt": "2024-07-26T14:15:00Z"
+  }
+]

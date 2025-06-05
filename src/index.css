@@ -1,0 +1,107 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'react-toastify/dist/ReactToastify.css';
+
+@layer base {
+  html {
+    font-family: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+  }
+  
+  body {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2D3436;
+    background-color: #FAFAF8;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+    font-weight: 500;
+  }
+
+  /* Touch-friendly controls */
+  button, [role="button"], input, select, textarea {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* High contrast mode support */
+  @media (prefers-contrast: high) {
+    .text-gray-500 {
+      color: #2D3436;
+    }
+    .border-gray-200 {
+      border-color: #2D3436;
+    }
+  }
+
+  /* Large text support */
+  @media (prefers-reduced-motion: no-preference) {
+    * {
+      transition: all 0.2s ease-in-out;
+    }
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .text-shadow {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+
+  .farm-card-hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .gradient-earth {
+    background: linear-gradient(135deg, #228B22 0%, #27AE60 100%);
+  }
+}
+
+/* Responsive design base */
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 16px;
+  }
+}
+
+/* Focus styles for accessibility */
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid #228B22;
+  outline-offset: 2px;
+}
+
+/* Loading skeleton */
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200px 100%;
+  animation: shimmer 1.5s infinite;
+}

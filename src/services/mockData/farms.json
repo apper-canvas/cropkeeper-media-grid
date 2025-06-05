@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Green Valley Farm",
+    "location": "Iowa, USA",
+    "size": 250,
+    "sizeUnit": "acres",
+    "soilType": "loam",
+    "createdAt": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "2", 
+    "name": "Sunrise Acres",
+    "location": "Nebraska, USA",
+    "size": 180,
+    "sizeUnit": "acres",
+    "soilType": "clay",
+    "createdAt": "2024-02-20T10:30:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Prairie View Ranch",
+    "location": "Kansas, USA", 
+    "size": 340,
+    "sizeUnit": "acres",
+    "soilType": "sandy",
+    "createdAt": "2024-03-10T14:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Hillside Organic Farm",
+    "location": "Wisconsin, USA",
+    "size": 95,
+    "sizeUnit": "acres",
+    "soilType": "silt",
+    "createdAt": "2024-04-05T09:45:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Golden Wheat Fields",
+    "location": "Minnesota, USA",
+    "size": 420,
+    "sizeUnit": "acres", 
+    "soilType": "loam",
+    "createdAt": "2024-05-12T11:20:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Heritage Family Farm",
+    "location": "Illinois, USA",
+    "size": 160,
+    "sizeUnit": "acres",
+    "soilType": "clay",
+    "createdAt": "2024-06-18T16:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Riverside Agriculture",
+    "location": "Missouri, USA",
+    "size": 280,
+    "sizeUnit": "acres",
+    "soilType": "loam",
+    "createdAt": "2024-07-22T07:30:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Mountain View Farm",
+    "location": "Colorado, USA",
+    "size": 145,
+    "sizeUnit": "acres",
+    "soilType": "sandy",
+    "createdAt": "2024-08-14T12:45:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Cornfield Cooperative",
+    "location": "Indiana, USA",
+    "size": 380,
+    "sizeUnit": "acres",
+    "soilType": "silt",
+    "createdAt": "2024-09-03T15:10:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Pioneer Homestead",
+    "location": "North Dakota, USA",
+    "size": 520,
+    "sizeUnit": "acres",
+    "soilType": "loam",
+    "createdAt": "2024-10-01T06:55:00Z"
+  }
+]

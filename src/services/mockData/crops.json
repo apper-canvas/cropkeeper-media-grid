@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "farmId": "1",
+    "cropType": "corn",
+    "plantingDate": "2024-04-15",
+    "expectedHarvestDate": "2024-09-15",
+    "growthStage": "flowering",
+    "area": 120,
+    "notes": "High-yield hybrid variety, looks very promising"
+  },
+  {
+    "id": "2",
+    "farmId": "1", 
+    "cropType": "soybeans",
+    "plantingDate": "2024-05-01",
+    "expectedHarvestDate": "2024-10-01",
+    "growthStage": "growing",
+    "area": 80,
+    "notes": "Organic variety, pest-resistant strain"
+  },
+  {
+    "id": "3",
+    "farmId": "2",
+    "cropType": "wheat",
+    "plantingDate": "2024-03-20",
+    "expectedHarvestDate": "2024-07-20",
+    "growthStage": "ready",
+    "area": 150,
+    "notes": "Winter wheat variety, excellent root development"
+  },
+  {
+    "id": "4",
+    "farmId": "2",
+    "cropType": "tomatoes",
+    "plantingDate": "2024-05-15",
+    "expectedHarvestDate": "2024-08-15",
+    "growthStage": "ripening",
+    "area": 25,
+    "notes": "Greenhouse variety, cherry tomatoes for local market"
+  },
+  {
+    "id": "5",
+    "farmId": "3",
+    "cropType": "corn",
+    "plantingDate": "2024-04-20",
+    "expectedHarvestDate": "2024-09-20",
+    "growthStage": "growing",
+    "area": 200,
+    "notes": "Field corn for livestock feed, drought-resistant"
+  },
+  {
+    "id": "6",
+    "farmId": "3",
+    "cropType": "wheat",
+    "plantingDate": "2024-03-15",
+    "expectedHarvestDate": "2024-07-15",
+    "growthStage": "harvested",
+    "area": 140,
+    "notes": "Excellent yield this season, 65 bushels per acre"
+  },
+  {
+    "id": "7",
+    "farmId": "4",
+    "cropType": "lettuce",
+    "plantingDate": "2024-06-01",
+    "expectedHarvestDate": "2024-07-30",
+    "growthStage": "ready",
+    "area": 15,
+    "notes": "Romaine lettuce for local restaurants"
+  },
+  {
+    "id": "8",
+    "farmId": "4",
+    "cropType": "carrots",
+    "plantingDate": "2024-04-10",
+    "expectedHarvestDate": "2024-08-10",
+    "growthStage": "growing",
+    "area": 20,
+    "notes": "Purple haze variety, unique color for farmers market"
+  },
+  {
+    "id": "9",
+    "farmId": "5",
+    "cropType": "wheat",
+    "plantingDate": "2024-03-25",
+    "expectedHarvestDate": "2024-07-25",
+    "growthStage": "ready",
+    "area": 300,
+    "notes": "Spring wheat, good protein content expected"
+  },
+  {
+    "id": "10",
+    "farmId": "5",
+    "cropType": "soybeans",
+    "plantingDate": "2024-05-10",
+    "expectedHarvestDate": "2024-10-10",
+    "growthStage": "flowering",
+    "area": 120,
+    "notes": "Non-GMO variety for premium market pricing"
+  },
+  {
+    "id": "11",
+    "farmId": "6",
+    "cropType": "potatoes",
+    "plantingDate": "2024-04-05",
+    "expectedHarvestDate": "2024-08-05",
+    "growthStage": "ripening",
+    "area": 60,
+    "notes": "Russet Burbank variety, perfect for french fries"
+  },
+  {
+    "id": "12",
+    "farmId": "7",
+    "cropType": "corn",
+    "plantingDate": "2024-04-18",
+    "expectedHarvestDate": "2024-09-18",
+    "growthStage": "growing",
+    "area": 180,
+    "notes": "Sweet corn for direct sales, staggered planting"
+  },
+  {
+    "id": "13",
+    "farmId": "8",
+    "cropType": "peppers",
+    "plantingDate": "2024-05-20",
+    "expectedHarvestDate": "2024-08-20",
+    "growthStage": "flowering",
+    "area": 30,
+    "notes": "Bell peppers and hot peppers mix for diversity"
+  },
+  {
+    "id": "14",
+    "farmId": "9",
+    "cropType": "corn",
+    "plantingDate": "2024-04-12",
+    "expectedHarvestDate": "2024-09-12",
+    "growthStage": "growing",
+    "area": 250,
+    "notes": "Seed corn production, requires isolation strips"
+  },
+  {
+    "id": "15",
+    "farmId": "10",
+    "cropType": "wheat",
+    "plantingDate": "2024-03-18",
+    "expectedHarvestDate": "2024-07-18",
+    "growthStage": "ready",
+    "area": 400,
+    "notes": "Durum wheat for pasta production, premium contract"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "farmId": "default",
+    "currentTemp": 78,
+    "conditions": "Partly Cloudy",
+    "humidity": 65,
+    "forecast": [
+      {
+        "day": "Today",
+        "icon": "Sun",
+        "high": 82,
+        "low": 68,
+        "precipitation": 10
+      },
+      {
+        "day": "Tomorrow", 
+        "icon": "Cloud",
+        "high": 79,
+        "low": 65,
+        "precipitation": 30
+      },
+      {
+        "day": "Wednesday",
+        "icon": "CloudRain",
+        "high": 74,
+        "low": 62,
+        "precipitation": 75
+      },
+      {
+        "day": "Thursday",
+        "icon": "Sun",
+        "high": 81,
+        "low": 67,
+        "precipitation": 5
+      },
+      {
+        "day": "Friday",
+        "icon": "Sun",
+        "high": 85,
+        "low": 71,
+        "precipitation": 0
+      }
+    ]
+  }
+]
